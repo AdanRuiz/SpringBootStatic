@@ -4,6 +4,6 @@
 
 # Usage
 ```
-mvn verify
+mvn clean verify
 java -jar target/invernadero-actuador-1.0-SNAPSHOT.jar
 ```
